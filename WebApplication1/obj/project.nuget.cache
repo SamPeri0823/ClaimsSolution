@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Eb8FX6/ONCxYKAf015N4AJh5WHuabRadWa0J6rZMdHgfYNd6RN8Hr3fwtHlEf6i074X4K+904EWn5kAeA3pyYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\v-venkpe\\source\\repos\\Claims\\WebApplication1\\WebApplication1.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\v-venkpe\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
